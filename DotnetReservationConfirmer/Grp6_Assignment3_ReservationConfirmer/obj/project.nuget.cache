@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+IGgJ5oS+jgx15Tx7OMPP+cpAWK7IsUgahCLdOI6A/Lht3JUy0le5KyleD1Jn5OK09YfWvCF3oyLJCm1eJKMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\OneDrive - Aarhus Universitet\\IHA\\7. Semester\\ABE\\Afleveringer\\Aflevering 3\\DotnetReservationConfirmer\\Grp6_Assignment3_ReservationConfirmer\\Grp6_Assignment3_ReservationConfirmer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
